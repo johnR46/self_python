@@ -11,12 +11,9 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print_hi('EP7 ')
 
-    main_in_hat_en =  'A' + ' the man in the hat. '
+    main_in_hat_en = 'A' + ' the man in the hat. '
     print(main_in_hat_en.strip())
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-
-
